@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+coverage/
+.vite/
+.vscode/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+npm-debug.log*
+data/*.tmp
